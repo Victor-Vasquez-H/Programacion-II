@@ -10,4 +10,12 @@ public class Autor {
     public void mostrarInfo() {
         System.out.println("Autor: " + nombre + " (" + nacionalidad + ")");
     }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public String getNacionalidad() {
+        return nacionalidad;
+    }
 }

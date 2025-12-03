@@ -14,5 +14,9 @@ public class Estudiante {
     public String getNombre() {
         return nombre;
     }
+
+    public String getCodigo() {
+        return codigo;
+    }
 }
 

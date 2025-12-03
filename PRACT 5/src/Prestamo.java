@@ -17,4 +17,16 @@ public class Prestamo {
         System.out.println("Préstamo: " + estudiante.getNombre() + " → " + libro.getTitulo());
         System.out.println("Fecha préstamo: " + fechaPrestamo + ", Devolución: " + fechaDevolucion);
     }
+
+    public Estudiante getEstudiante() {
+        return estudiante;
+    }
+
+    public Libro getLibro() {
+        return libro;
+    }
+
+    public LocalDate getFecha() {
+        return fechaPrestamo;
+    }
 }

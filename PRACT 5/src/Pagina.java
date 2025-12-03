@@ -10,4 +10,12 @@ public class Pagina {
     public void mostrarPagina() {
         System.out.println("Página " + numero + ": " + contenido);
     }
+
+    public String getContenido() {
+        return contenido;
+    }
+
+    public int getNumero() {
+        return numero;
+    }
 }

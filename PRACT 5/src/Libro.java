@@ -24,6 +24,14 @@ public class Libro {
         return isbn;
     }
 
+    public ArrayList<String> getPaginasContenido() {
+        ArrayList<String> contenidos = new ArrayList<>();
+        for (Pagina p : paginas) {
+            contenidos.add(p.getContenido());
+        }
+        return contenidos;
+    }
+
     public void leer() {
         System.out.println("\nLeyendo libro: " + titulo);
         for (Pagina p : paginas) {

@@ -1,0 +1,25 @@
+[
+  {
+    "titulo": "Cien Años de Soledad",
+    "isbn": "ISBN001",
+    "paginas": [
+      "Era un día caluroso en Macondo...",
+      "El coronel no tenía quien le escribiera..."
+    ]
+  },
+  {
+    "titulo": "La Casa de los Espíritus",
+    "isbn": "ISBN002",
+    "paginas": [
+      "La casa de los espíritus se alzaba sobre la colina...",
+      "Clara había nacido con el don de la clarividencia..."
+    ]
+  },
+  {
+    "titulo": "Ficciones",
+    "isbn": "ISBN003",
+    "paginas": [
+      "Nadie sino una voz se oyó..."
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "estudiante_codigo": "2023001",
+    "estudiante_nombre": "María Pérez",
+    "libro_titulo": "Cien Años de Soledad",
+    "libro_isbn": "ISBN001",
+    "fecha": "2025-12-03"
+  },
+  {
+    "estudiante_codigo": "2023002",
+    "estudiante_nombre": "Carlos López",
+    "libro_titulo": "La Casa de los Espíritus",
+    "libro_isbn": "ISBN002",
+    "fecha": "2025-12-03"
+  }
+]
